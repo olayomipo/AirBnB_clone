@@ -71,6 +71,3 @@ What you should learn from this project:
 * Improve the page by adding Accessibility support
 
 ---
-
-## Author
-* **Ayomide Suara** - [aysuarex](https://github.com/aysuarex)
